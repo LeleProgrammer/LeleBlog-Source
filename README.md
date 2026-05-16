@@ -41,4 +41,3 @@ hexo server
 - [博客站点](https://leleprogrammer.github.io)
 - [博客源码仓库](https://github.com/LeleProgrammer/LeleBlog-Source)
 - [Hexo 官方文档](https://hexo.io/zh-cn/)
-```
