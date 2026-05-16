@@ -62,7 +62,7 @@ theme: vivia
 
 deploy:
   type: git
-  repo: https://github.com/LeleProgrammer/leleprogrammer.github.io.git
+  repo: git@github.com:LeleProgrammer/leleprogrammer.github.io.git
   branch: main
 
 # deploy:
