@@ -35,6 +35,9 @@ links:
   - name: GitHub
     icon: fa-brands fa-github
     url: https://github.com/LeleProgrammer
+  - name: Game
+    icon: fa-solid fa-gamepad
+    url: https://leleprogrammer.github.io/online-games
 
 # Sidebar
 sidebar:
