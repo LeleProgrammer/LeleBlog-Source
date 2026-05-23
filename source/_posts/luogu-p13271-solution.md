@@ -2,7 +2,7 @@
 title: 洛谷 P13271 [NOI2025] 机器人 题解
 date: 2025-08-17 23:39:35
 tags: ["NOI"]
-categories: ["题解"]
+categories: ["OI","题解","洛谷"]
 mathjax: true
 ---
 

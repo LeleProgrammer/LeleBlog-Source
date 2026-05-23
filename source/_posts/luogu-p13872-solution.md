@@ -2,7 +2,7 @@
 title: 洛谷 P13872 [蓝桥杯 2024 省 Java/Python A] 砍柴 题解
 date: 2025-08-29 18:27:56
 tags: ["蓝桥杯","OI"]
-categories: ["题解"]
+categories: ["OI","题解","洛谷"]
 mathjax: true
 ---
 

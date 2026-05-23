@@ -2,7 +2,7 @@
 title: CSP-S 2025 T2 题解
 date: 2025-11-02 09:55:01
 tags: ["OI","CSP"]
-categories: ["题解"]
+categories: ["OI","题解"]
 mathjax: true
 ---
 

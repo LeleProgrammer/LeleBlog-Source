@@ -2,7 +2,7 @@
 title: 洛谷 P14255 列车（train） 题解
 date: 2025-11-02 09:54:42
 tags: ["OI"]
-categories: ["题解"]
+categories: ["OI","题解","洛谷"]
 mathjax: true
 ---
 
