@@ -1,5 +1,5 @@
 ---
-title: 题解：CF2254F Whiplash
+title: "题解：P16476 [GKS 2013 #B] Meet and party"
 date: 2026-08-06 17:20:33
 tags: [OI,离散化,前缀和,"Google Kick Start"]
 categories: [OI,题解,洛谷]
